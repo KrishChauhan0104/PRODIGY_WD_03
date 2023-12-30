@@ -1,1 +1,1 @@
-# PRODIGY_WD_03
+It is a tic-toc-toe web application, we have used html, css and javascript. By implementing functions to handle user clicks, track game state,and check for winning conditions, we have create an interactive and engaging tic-tac-toe game. With these technologies and funtionalities, users can play against each other  or against  an AI opponent, aiming to get three markers in a row to win the game.
